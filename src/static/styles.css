@@ -74,17 +74,17 @@ section h3 {
   margin-bottom: 8px;
 }
 
-.activity-card ul {
+.participant-list {
   margin-top: 10px;
   padding-left: 20px; /* Ensure proper indentation for list items */
   list-style-type: disc; /* Use a disc for the bullet points */
-  color: #333; /* Adjust color for better readability */
-  font-size: 14px; /* Ensure consistent font size */
 }
 
-.activity-card ul li {
-  margin-bottom: 8px; /* Add spacing between list items */
-  line-height: 1.4; /* Improve readability with line height */
+.participant {
+  color: #333; /* Neutral color for participant names */
+  font-size: 14px; /* Ensure consistent font size */
+  line-height: 1.4; /* Improve readability */
+  margin-bottom: 8px; /* Add spacing between participant names */
 }
 
 .form-group {
